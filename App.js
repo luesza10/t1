@@ -55,7 +55,7 @@ client.connect({onSuccess:onConnect, useSSL: false, userName:'mqttusername',pass
        <TouchableOpacity
         style={}></TouchableOpacity> 
     </view>
-    
+     //eiei
     </view>
   )
 
